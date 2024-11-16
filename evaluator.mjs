@@ -14,7 +14,6 @@ catch (error) {
      result = "Error";
 }
 
-console.log(result);
 result = result.toString();
 
 // Overwrites the result back into the file
